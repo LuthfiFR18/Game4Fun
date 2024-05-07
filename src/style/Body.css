@@ -1,0 +1,30 @@
+/* ----------------------------------------------Body------------------------------ */
+
+.bodyHP {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  padding-top: 70px;
+}
+
+.bodyHP img {
+  width: 70%;
+  height: auto;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+.bodyHP p {
+  font-size: 28px;
+  padding: 15px;
+  margin-left: 20%;
+  margin-right: 20% ;
+}
+
+.appNameTxt {
+  font-size: 36px;
+  font-weight: bold;
+  color: #ff7400;
+}
